@@ -47,7 +47,7 @@ https://www.docker.com/products/docker-desktop
 Step:1
 Clone the GitHub repository into the folder by command
 
-> > git clone https://github.com/chitvanbhatt/DataAnalyzer.git
+> > git clone https://github.com/huynguyends/DataAnalyzer
 
 Step:2
 For first time install, the user needs to set up the docker container by typing in the command line in the Data Analyzer folder:
